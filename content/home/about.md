@@ -19,7 +19,8 @@ weight = 5
 [[education.courses]]
   course = "PhD Candidate in Computer Vision"
   institution = "University of Maryland, College Park"
-  year = May, 2018
+  month= "May"
+  year = 2018
 
 [[education.courses]]
   course = "MSc in Computer Science"

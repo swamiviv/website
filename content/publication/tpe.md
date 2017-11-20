@@ -1,6 +1,6 @@
 +++
 title = "Triplet Probabilistic Embedding for Face Verification and Clustering"
-date = "2017-11-20"
+date = "2016-05-20"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Swami Sankaranarayanan, Azadeh Alavi, Carlos Castillo, Rama Chellappa"]

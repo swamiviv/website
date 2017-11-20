@@ -1,6 +1,6 @@
 +++
 title = " Generate To Adapt: Aligning Domains using Generative Adversarial Networks"
-date = "2017-11-20"
+date = "2017-04-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Swami Sankaranarayanan, Yogesh Balaji, Carlos D. Castillo, Rama Chellappa"]

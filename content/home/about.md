@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Adversarial Machine Learning",
     "Domain Adaptation",
-    "Reinforcement Learning"
+    "Semi-/Un-supervised Learning",
+    "Active Learning"
   ]
 
 # List your qualifications (such as academic degrees).

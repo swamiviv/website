@@ -15,8 +15,8 @@ weight = 20
 
 +++
 
-- 2 (first author) + 1 (second author) papers under review for \textbf{CVPR 2018}!
-- One paper accepted at \textbf{AAAI 2018}!
-- Selected for Doctroal Consortium and awarded Travel Grant for \textbf{ICCV 2018}!
-- One paper accepted at \textbf{ICCV 2018}!
+- 2 (first author) + 1 (second author) papers under review for **CVPR 2018**!
+- One paper accepted at **AAAI 2018**!
+- Selected for Doctroal Consortium and awarded Travel Grant for **ICCV 2018**!
+- One paper accepted at **ICCV 2018**!
 

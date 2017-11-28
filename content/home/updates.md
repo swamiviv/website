@@ -11,12 +11,13 @@ title = "Updates"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 2
 
 +++
 
-- 2 (first author) + 1 (second author) papers under review for **CVPR 2018**!
 - One paper accepted at **AAAI 2018**!
-- Selected for Doctroal Consortium and awarded Travel Grant for **ICCV 2018**!
-- One paper accepted at **ICCV 2018**!
+- Selected for Doctroal Consortium and awarded Travel Grant for **ICCV 2017**!
+- One paper accepted at **ICCV 2017**!
+- One paper accepted as **oral** in FG 2017.
+- Won NVIDIA Best paper award at BTAS 2016.
 

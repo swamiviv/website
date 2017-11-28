@@ -3,7 +3,7 @@ title = " Generate To Adapt: Aligning Domains using Generative Adversarial Netwo
 date = "2017-04-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Swami Sankaranarayanan, Yogesh Balaji, Carlos D. Castillo, Rama Chellappa"]
+authors = ["Swami Sankaranarayanan<sup>1</sup>, Yogesh Balaji<sup>1</sup>, Carlos D. Castillo, Rama Chellappa"]
 
 # Publication type.
 # Legend:
@@ -14,7 +14,7 @@ authors = ["Swami Sankaranarayanan, Yogesh Balaji, Carlos D. Castillo, Rama Chel
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "arXiv preprint"
@@ -28,7 +28,7 @@ abstract_short = "Unsupervised Domain Adaptation using GANs for Classification p
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -60,4 +60,3 @@ caption = ""
 
 +++
 
-#More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

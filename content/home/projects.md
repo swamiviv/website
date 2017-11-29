@@ -27,11 +27,15 @@ filter_default = 0
 [[filter]]
   name = "All"
   tag = "*"
-  
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
-
+  name = "Perturbing deep networks"
+  tag = ".perturb"
+[[filter]]
+  name = "Face Analysis"
+  tag = ".face"
+[[filter]]
+  name = "Deep Generative Adversarial Networks"
+  tag = ".gan"
 [[filter]]
   name = "Other"
   tag = ".demo"
